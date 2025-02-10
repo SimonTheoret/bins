@@ -1,3 +1,6 @@
 [submodule "fzf-dir"]
 	path = fzf-dir
 	url = ./fzf-dir
+[submodule "autorandr"]
+	path = autorandr
+	url = ./autorandr
