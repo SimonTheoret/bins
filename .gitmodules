@@ -1,0 +1,3 @@
+[submodule "fzf-dir"]
+	path = fzf-dir
+	url = ./fzf-dir
