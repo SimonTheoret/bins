@@ -1,0 +1,1 @@
+/home/simon/bin/elixir-lsp/language_server.sh
