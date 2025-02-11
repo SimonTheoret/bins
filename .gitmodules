@@ -4,3 +4,6 @@
 [submodule "autorandr"]
 	path = autorandr
 	url = ./autorandr
+[submodule "timer"]
+	path = timer
+	url = ./timer
